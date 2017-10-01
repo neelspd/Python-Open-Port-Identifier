@@ -15,10 +15,8 @@ else:
  remoteServer    = raw_input("Enter a remote host to scan: ")
  remoteServerIP  = socket.gethostbyname(remoteServer)
 
-# Print a nice banner with information on which host we are about to scan
-print "-" * 60
+# Print information on which host we are about to scan
 print "Please wait, scanning remote host", remoteServerIP
-print "-" * 60
 
 # Check what time the scan started
 t1 = datetime.now()
