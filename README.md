@@ -18,6 +18,7 @@ For Choice 2
 
 ```Enter a remote host to scan:```
 
+Output
 
 ```Please wait, scanning remote host remote server IP Address```
 
