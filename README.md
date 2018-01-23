@@ -7,7 +7,16 @@ For Windows from Command Prompt,
 For Linux from Terminal
 
 # Examples for Using the Script
+### > python OpenPortIdentifier.py
+### Select the Scan type;\n 1: for IP Address \n 2:Host-Name \n:
+Select Choice,
+For Choice 1
+### Enter a remote host IP Address to scan:
+For Choice 2
+### Enter a remote host to scan:
 
+### Please wait, scanning remote host remote server IP Address
+### Results and Time Taken for Scanning
 
 # Contributing
 
@@ -16,4 +25,4 @@ Versioning
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE file for details
