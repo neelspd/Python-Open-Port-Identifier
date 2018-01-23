@@ -20,6 +20,7 @@ For Choice 2
 
 
 ```Please wait, scanning remote host remote server IP Address```
+
 ```Results and Time Taken for Scanning```
 
 # Contributing
