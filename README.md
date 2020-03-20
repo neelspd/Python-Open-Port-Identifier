@@ -25,7 +25,7 @@ Output
 ```Results and Time Taken for Scanning```
 
 # Contributing
-### Author : Neel Shah (https://bit.ly/2pSbJVN)
+### Author : Neel Shah (https://bit.ly/2pSbJVN) and [Python for Beginners](https://www.pythonforbeginners.com/code-snippets-source-code/port-scanner-in-python/)
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 Versioning
 
